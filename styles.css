@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.book-library{
+	background-color:#f8f8f8;
+}
+.price{
+	background-color:#2ecc71;
+	text-align:center;
+}
+p{
+	color:#777777;
+}
+.book{
+	margin:20px;
+	background-color:#ffffff;
+}
+img{
+	align-item:center;
+	justify-content:center;
+}
+.center{
+	margin:auto;
+	width:100%;
+}
